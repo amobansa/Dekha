@@ -1,0 +1,181 @@
+#nav{
+   
+    background-image: linear-gradient(90deg, rgba( 0,0, 96, 0.73) 51%,
+       rgba(0, 0, 90, 0.91)94%) , url(../images/Dekha.jpg) ;
+       height:550px;
+       background-position: center;
+       background-repeat: no-repeat;
+       background-size: cover;
+       position: relative;
+
+}
+#navbarSupportedContent{
+    padding: 0px 0px 0px 600px;
+    color: white;
+}
+
+navbar-brand{
+    padding: 0px 0px -100px 0px;
+}
+div.jumbotron{
+   height: none;
+   color: white;
+   background-color: transparent;
+   
+}
+i{
+    font-size: 20px;
+    padding: 20px;
+    visibility: visible;
+}
+li{
+    display: inline;
+    padding: inherit;
+    
+}
+.fab:hover{
+    background-color:grey;
+    height: auto;
+    padding: 0px 10px;
+    color:white;
+    transition: all 0.5s ease 0s}
+.li{
+    margin: 0px 100px 0px 110px;
+}
+bg-light {
+    background-color: transparent!important;
+}
+li:hover{
+    background-color: black;
+    height: auto;
+    padding: 0px 10px;
+    color:black;
+    transition: all 0.5s ease 0s;
+
+}
+nav.navbar .navbar-brand{
+    color: white;
+}
+nav.navbar .navbar-item a{
+    color: black;
+
+}
+button{
+    width: auto;
+    height: auto;
+}
+.hello{
+    color: darkblue;
+    font-size: 50px;
+}
+.li {
+    margin: 0px -60px 0px -20px;
+}
+.li li:hover{
+    background-color:transparent;
+    height: auto;
+    padding: 0px 10px;
+    color:white;
+    transition: all 0.5s ease 0s;
+    
+}
+.contain{
+    width: 1000px;
+    height: 200px;
+    margin:200px 10px 0px 0px;
+    display: grid;
+    grid-template-columns: 450px 700px ;
+    grid-column-gap: 100px;
+    font-size: 12px;
+}
+.contain img{
+    width: auto;
+    height: auto;
+    border: solid 10px darkblue;
+    margin :0px 50px 0px 50px;
+}
+
+.b1{
+    visibility: unset;
+
+}
+.b1 h3{
+    border: 0px solid;
+}
+#cont{
+    color: black;
+}
+.cont{
+    box-shadow: 0px 0px 3px 0px whitesmoke;
+}
+td{
+    font-size: 15px;
+}
+table{
+    margin: 0px;
+}
+.download{
+    width: 250px;
+    height: 50px;
+    font-size: 19px;
+    border-radius: 25px;
+    background:  linear-gradient(90deg, rgba( 0, 0, 96, 0.93) 51%,
+    rgba(50, 50, 90, 0.91)94%);
+    color: white;
+    border: none;
+}
+.services{
+    background-color:silver;
+    height: 650px;
+    margin: 300px 0px 0px 0px;
+}
+.button{
+    
+    height: ;
+}
+.button button{
+    margin: 100px 550px 0px 550px;
+    width:auto ;
+    height: auto;
+    color: white;
+    background-color: darkblue;
+    border: none;
+    border-radius:5px;
+    font-size: 15px;
+    padding: 0px 20px 0px 20px;
+}
+.dis{
+    margin: 0px 540px 0px 490px;
+    font-size: 50px;
+}
+.mis{
+  margin: 10px 200px 10px 300px;
+  color: dimgrey;
+}
+.fis{
+    margin: 10px 200px 10px 400px;
+    color: dimgrey;
+}
+.wdb{
+    width: auto;
+    height: 200px;
+    margin: 70px 100px 0px 100px ;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-column-gap: 30px;   
+}
+.grid-item{
+    background-color: white;
+    padding: 30px;
+    box-shadow: 0px 2px 1px 2px whitesmoke;
+}
+
+.heading{
+    padding;: 10px;
+}
+#contain{
+    text-decoration:2px underline black;
+}
+.heading .fas{
+  font-size: 50px;
+}
