@@ -18,8 +18,15 @@
 .nav-item{
     color: white;
 }
-i.fab{
-    border: solid  ;
-    border-radius: 100px;
+i.fab {
+    border: 3px solid white;
+    border-radius: 50%;
+    margin: 0px 12px 0px 12px;
+    padding: 10px;
     font-size: 40px;
-}
+     }
+ i{
+        font-size: 20px;
+        padding: 20px;
+        visibility: visible;
+    }
